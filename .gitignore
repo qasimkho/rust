@@ -1,3 +1,4 @@
 # Ignore compiled Rust executables
 *.exe
-
+*.out
+    
